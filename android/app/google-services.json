@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751219096142",
+    "project_id": "vk-linkedin-clone",
+    "storage_bucket": "vk-linkedin-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751219096142:android:7d1113fcd5b99ec62ee11f",
+        "android_client_info": {
+          "package_name": "com.vk_linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751219096142-a0tlm65r2redi641mq1ieguh877rcneo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPrbz0f5lIocCSuJyT3GzlquyiKJ3dcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751219096142-a0tlm65r2redi641mq1ieguh877rcneo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
